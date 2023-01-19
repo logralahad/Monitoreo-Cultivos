@@ -1,2 +1,1 @@
-# Cultivo-Hidroponico
-Sistema de monitoreo para cultivos hidroponicos.
+# Sistema de monitoreo para cultivos.
